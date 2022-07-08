@@ -146,7 +146,7 @@ public interface Sidebar {
     void playerTabRefreshAnimation();
 
     /**
-     * Refresh bellow player-name animations (if making use of {@link SidebarLineAnimated}
+     * Refresh bellow player-name animations (if making use of {@link SidebarLineAnimated)}
      * and if health is displayed via {@link #showPlayersHealth(SidebarLine, boolean)}.
      */
     @SuppressWarnings("unused")

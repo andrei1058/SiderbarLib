@@ -10,6 +10,7 @@
     <version>0.4-SNAPSHOT</version>
     <modules>
         <module>sidebar-base</module>
+        <module>sidebar-nineteen</module>
         <module>sidebar-eighteen</module>
         <module>sidebar-seventeen</module>
         <module>sidebar-sixteen</module>
